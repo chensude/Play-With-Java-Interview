@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8582acb6-79da-4680-82b3-10d01ad9b0d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq/doc/img/mq-model.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq/doc/rabbitMq.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/01-Array-Sorts.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/Insertion-Selection-Sort/Insertion-Sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/Insertion-Selection-Sort/src/com/sort/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/Insertion-Selection-Sort/src/com/sort/InsertionSort2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/Insertion-Selection-Sort/src/com/sort/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/Insertion-Selection-Sort/src/com/sort/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/Insertion-Selection-Sort/src/com/sort/TestHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/Insertion-Selection-Sort/src/com/sort/Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/MergeSort/MergeSort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/MergeSort/src/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/QiuckSort/QiuckSort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/QiuckSort/src/QuickSort01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/QiuckSort/src/QuickSort02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/QiuckSort/src/QuickSort03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Array-Sorts/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8582acb6-79da-4680-82b3-10d01ad9b0d5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/mq/doc/rabbitMq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="738">
-                <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+              <first_editor relative-caret-position="306">
+                <caret line="40" selection-start-line="40" selection-end-line="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -116,7 +89,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566445390535" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566446056784" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -156,18 +129,17 @@
       <option name="presentableId" value="Default" />
       <updated>1566373150515</updated>
       <workItem from="1566373151836" duration="1434000" />
-      <workItem from="1566442219073" duration="3124000" />
+      <workItem from="1566442219073" duration="3516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4558000" />
+    <option name="totallyTimeSpent" value="4950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="149" y="-1050" width="1680" height="962" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49489796" visible="true" weight="0.21607143" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49489796" visible="true" weight="0.21607143" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.18017058" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -188,7 +160,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32962137" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49946696" weight="0.3997773" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49946696" visible="true" weight="0.39976957" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -214,8 +186,8 @@
     <entry file="file://$PROJECT_DIR$/mq/doc/rabbitMq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="738">
-            <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <first_editor relative-caret-position="306">
+            <caret line="40" selection-start-line="40" selection-end-line="40" />
           </first_editor>
           <second_editor />
         </state>
