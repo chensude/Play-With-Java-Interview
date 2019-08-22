@@ -9,13 +9,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mq/doc/rabbitMq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="262">
-                <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <first_editor relative-caret-position="-84">
+                <caret line="39" selection-start-line="39" selection-end-line="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -53,7 +53,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,18 +71,12 @@
               <item name="mq" type="462c0819:PsiDirectoryNode" />
               <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Play-With-Java-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Play-With-Java-Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="mq" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,16 +123,17 @@
       <updated>1566373150515</updated>
       <workItem from="1566373151836" duration="1434000" />
       <workItem from="1566442219073" duration="3778000" />
+      <workItem from="1566452967844" duration="1124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5212000" />
+    <option name="totallyTimeSpent" value="6336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="149" y="-1050" width="1680" height="962" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49489796" visible="true" weight="0.21607143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49489796" visible="true" weight="0.21607143" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.18017058" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -160,7 +154,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32962137" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49946696" visible="true" weight="0.39976957" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49946696" visible="true" weight="0.39976957" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -186,8 +180,8 @@
     <entry file="file://$PROJECT_DIR$/mq/doc/rabbitMq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="262">
-            <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <first_editor relative-caret-position="-84">
+            <caret line="39" selection-start-line="39" selection-end-line="39" />
           </first_editor>
           <second_editor />
         </state>

@@ -55,4 +55,5 @@ BindingKey中可以存在两种特殊字符串"*"和'#",用于做模糊匹配，
 RoutingKey：路由建。用来指定这个消息的路由规则。必须和BindingKey联合使用<br/>
 Binding:绑定
 
+
     
